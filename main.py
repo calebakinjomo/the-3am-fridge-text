@@ -3,6 +3,12 @@
 
 Writes the one line a smart fridge would text its owner at 3am to
 /output/entry.txt. Entry must be a single line, 1-140 UTF-8 chars.
+
+Intent: the fridge plays the exhausted, slightly judgemental night-shift
+voice — it has watched the owner do this exact 3am stare before, so it
+skips the lecture and lands the punchline ("Take the cake") instead.
+The humour is the contrast: a mundane appliance delivering a deadpan,
+almost parental nudge about a yoghurt that will never apologise.
 """
 
 import os
